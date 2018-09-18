@@ -10,7 +10,7 @@ namespace dotfusion.web.Models
     {
         public IdentityUser User { get; set; }
 
-        public IList<IdentityUser> Teachers { get; set; }
+        public IList<Teacher> Teachers { get; set; }
 
         public IList<Course> Courses { get; set; }
     }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotfusion.web", "Web\dotfusion.web.csproj", "{FA5D091D-0CC5-4DE1-BC32-302A37822FB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotfusion.web", "src\Web\dotfusion.web.csproj", "{17BA7D83-3D11-48FE-BB26-8D4A370A0F03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA5D091D-0CC5-4DE1-BC32-302A37822FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA5D091D-0CC5-4DE1-BC32-302A37822FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA5D091D-0CC5-4DE1-BC32-302A37822FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA5D091D-0CC5-4DE1-BC32-302A37822FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BA7D83-3D11-48FE-BB26-8D4A370A0F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BA7D83-3D11-48FE-BB26-8D4A370A0F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BA7D83-3D11-48FE-BB26-8D4A370A0F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BA7D83-3D11-48FE-BB26-8D4A370A0F03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
